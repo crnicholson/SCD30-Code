@@ -1,8 +1,3 @@
-// Software License Agreement (BSD License)
-
-// Copyright (c) 2020 Bryan Siepert for Adafruit Industries
-// All rights reserved.
-
 // Basic demo for readings from Adafruit SCD30
 #include <Adafruit_SCD30.h> // Thanks Adafruit!
 
