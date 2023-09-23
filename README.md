@@ -1,7 +1,9 @@
 # scd30Code
 This is adapted code based on code from Adafruit that's easier to paste into a spreadsheet. It is used for my carbon capture project. Click here to learn more about that: https://nicholsonlabs.gitbook.io/labs/carbon-capture.
 
-To use this code, first install Adafruit's SCD30 library on your Arduino IDE. Then, connect the SCD30 to a 3.3v tolerant Arduino/MCU (another option is to use a level converter), by connecting the SDA and SCL pins of the Arduino, A4 and A5 respectively. After that, upload the code. Finally, open up the serial monitor, and make sure you have the "Timestamp" button clicked. You can now see the results from your sensor. To calibrate your sensor, follow Adafruit's guide.
+This mini tutorial assumes you have some exposure to electronics. Knowledge of Arduino would greatly improve your time doing this.
+
+To use this code, first install Adafruit's SCD30 library (https://github.com/adafruit/Adafruit_SCD30) on your Arduino IDE (this is free software you can find online). Then, connect the SCD30 to a 3.3v tolerant Arduino/MCU (another option is to use a level converter) by connecting the SDA and SCL pins of SCD30 to the Arduino pins A4 and A5, respectively. After that, upload the code. Finally, open up the serial monitor, and make sure you have the "Timestamp" button clicked. You can now see the results from your sensor. To calibrate your sensor, follow Adafruit's guide: https://github.com/adafruit/Adafruit_SCD30.
 
 To use this in a spreadsheet, make sure you have the "Timestamp" button clicked. Then, copy and paste everything into a spreadsheet. Once in a spreadsheet, select the column where you pasted the data, and go to Data > Split text to columns. This is pictured below:
 
