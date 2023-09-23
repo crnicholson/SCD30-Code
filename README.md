@@ -1,3 +1,4 @@
+![IMG_2021](https://github.com/charlienicholson3/scd30Code/assets/83499056/22551355-9cc2-4589-adc3-8d7794dba94b)
 # scd30Code
 This is adapted code based on code from Adafruit that's easier to paste into a spreadsheet. It is used for my carbon capture project. Click here to learn more about that: https://nicholsonlabs.gitbook.io/labs/carbon-capture.
 
